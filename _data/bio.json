@@ -50,12 +50,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "PHP",
+        "HTML",
+        "CSS",
       ]
     },
     {
@@ -63,26 +60,24 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+
       ]
     }
   ],
-  "education": [
+  "Education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Marketing (expected Spring, 2020)",
       "studyType": "B.B.A.",
-      "startDate": "2016-08",
+      "startDate": "2016",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
     }
   ],
-  "work": [
+  "Work": [
     {
       "company": "OmniTrak Group Inc.",
       "position": "Market Research Student Intern",
@@ -109,7 +104,7 @@
     }
   ],
 
-  "awards": [
+  "Awards": [
     {
       "title": "Dean's List",
       "date": "Spring 2018, Spring 2019",
@@ -117,7 +112,7 @@
       "summary": ""
     },
   ],
-  "references": [
+  "References": [
     {
       "name": "Available upon request",
       "reference": ""
