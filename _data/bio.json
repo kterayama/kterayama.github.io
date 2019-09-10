@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "kaitlyn-terayama",
         "url": "http://linkedin.com/in/kaitlyn-terayama"
-      },
+      }
 
     ]
   },
@@ -52,7 +52,7 @@
       "keywords": [
         "PHP",
         "HTML",
-        "CSS",
+        "CSS"
       ]
     },
     {
@@ -60,7 +60,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Git/GitHub",
+        "Git/GitHub"
 
       ]
     }
@@ -110,7 +110,7 @@
       "date": "Spring 2018, Spring 2019",
       "awarder": "University of Hawaii at Manoa",
       "summary": ""
-    },
+    }
   ],
   "references": [
     {
